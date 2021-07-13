@@ -1,0 +1,13 @@
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\MAON\Projetos\Exercicios Udemy\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
